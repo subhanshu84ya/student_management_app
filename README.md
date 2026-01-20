@@ -1,6 +1,7 @@
 📘 Day 1 – Java Full Stack 90 Days Challenge
 
 ✅ What I did on Day 1
+```
 Revised Java basics & DSA fundamentals
 Created a Spring Boot project with:
 -Spring Web
@@ -19,7 +20,7 @@ Pushed code to GitHub with proper project structure
 -Database: MySQL
 -Tools: Git, GitHub, Maven, npm
 
-```📂 Project Structure
+📂 Project Structure
 java-fullstack-90days
 ├── demo        → Spring Boot backend
 ├── react-day1  → React frontend

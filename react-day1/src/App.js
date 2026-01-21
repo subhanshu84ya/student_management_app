@@ -1,13 +1,18 @@
-import React from 'react';
-import Hello from './Hello';
+import Student from "./Student";
 
 function App() {
   return (
     <div>
-        <h1>React Day1</h1>
-        <Hello />
+      <h1>React Day 2</h1>
+
+      <Student 
+        name="Rahul"
+        age="21"
+        course="Computer Science"
+      />
     </div>
   );
 }
 
 export default App;
+
